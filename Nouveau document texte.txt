@@ -1,0 +1,12 @@
+Web pages are written in text with Hypertext Markup Language (HTML),
+then uploaded to a host computer running web server software.
+While there are no formal or specific qualifications required to become a web developer,
+ a numerate degree in a subject such as maths or science will be useful.
+you need same experience of element like
+-User interface
+-Visual design
+-Coding languages including HTML and CSS
+-Frontend web programing 
+-Backend web programing 
+-Full Stack Developers 
+
